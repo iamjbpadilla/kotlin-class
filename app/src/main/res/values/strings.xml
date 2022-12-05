@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">My App</string>
+    <string name="type_anything_here">Type anything here</string>
+    <string name="submit">Submit</string>
+    <string name="clear">Clear</string>
+    <string name="text_will_appear_here">Text will appear here</string>
+</resources>
